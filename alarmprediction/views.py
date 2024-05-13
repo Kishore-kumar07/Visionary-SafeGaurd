@@ -11,8 +11,8 @@ key = b'Q\xddcq%\x12\x82>\xd0\xdd\xe5\xc5\xb8\t\xbe\x11'
 fixed_iv = bytes([0] * 16)
 
 # Load the classifier and encoder
-classifier = joblib.load('D:/Downloads/CSM_MODLES/classifier.joblib')
-encoder = joblib.load('D:/Downloads/CSM_MODLES/encoder.joblib')
+classifier = joblib.load('templates/models/classifier.joblib')
+encoder = joblib.load('templates/models/encoder.joblib')
 
 def encrypt(msg):
     cipher = AES.new(key, AES.MODE_EAX, nonce=fixed_iv)

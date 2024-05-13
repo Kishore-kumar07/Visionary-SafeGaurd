@@ -63,7 +63,7 @@ def store_results_in_database(rawdata, result, normal_table_name, encrypted_inpu
 
 # Load your machine learning models
 # model1 = pickle.load(open('C:/Users/Dhanush/Documents/prot/telusko/log.sav', 'rb'))
-model2 = pickle.load(open('D:/Downloads/CSM_MODLES/random.sav', 'rb'))
+model2 = pickle.load(open('templates/models/random.sav', 'rb'))
 # model3 = pickle.load(open('C:/Users/Dhanush/Documents/prot/telusko/SVC.sav', 'rb'))
 
 def index(request):
