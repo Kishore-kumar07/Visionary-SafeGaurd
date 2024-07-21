@@ -1,7 +1,3 @@
-Sure! Here is a draft of a README file for your project:
-
----
-
 # Visionary SafeGuard
 
 ## Overview
@@ -79,7 +75,3 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 ## Acknowledgements
 - Inspired by advancements in AI and computer vision for automotive safety.
 - Special thanks to the open-source community for providing the tools and libraries.
-
----
-
-Feel free to adjust any sections to better fit your project specifics or personal preferences.
