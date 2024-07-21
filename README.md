@@ -24,7 +24,7 @@ Visionary SafeGuard is an advanced web application designed to revolutionize car
 ### Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/visionary-safeguard.git
+    git clone https://github.com/Kishore-kumar07/Visionary-SafeGaurd.git
     ```
 2. Navigate to the project directory:
     ```bash
